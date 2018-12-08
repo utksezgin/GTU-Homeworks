@@ -1,0 +1,1 @@
+//Abstract base class with only pure virtual functions do not need any implementation.
