@@ -1,0 +1,2 @@
+Usage: ./exe CHEF_NO
+There are 4 ingredients so minimum required chef number is 6. Also maximum Chef No is set to 50 in order to protect system from creating too many processes.
