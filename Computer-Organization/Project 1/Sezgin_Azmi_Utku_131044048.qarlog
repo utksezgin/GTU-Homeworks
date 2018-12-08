@@ -1,0 +1,37 @@
+Quartus II Archive log --	C:/Users/Utku/Desktop/Sezgin_Azmi_Utku_131044048.qarlog
+
+Archive:	C:/Users/Utku/Desktop/Sezgin_Azmi_Utku_131044048.qar
+Date:		Fri Oct 27 18:28:58 2017
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/Utku/Desktop/Computer Organization/HW01/_1BitMux.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/_1bitmux_testbench.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/_5BitMux.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/_5BitMux_testbench.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/_5bitAND.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/_5bitAND_testbench.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/_5bitAdder.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/_5bitAdder_testbench.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/_5bitOR.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/_5bitOR_testbench.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/_5bitXOR.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/_5bitXOR_testbench.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/db/hw01.cmp.hdb
+C:/Users/Utku/Desktop/Computer Organization/HW01/db/hw01.cmp.rdb
+C:/Users/Utku/Desktop/Computer Organization/HW01/db/hw01.db_info
+C:/Users/Utku/Desktop/Computer Organization/HW01/full_adder.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/full_adder_testbench.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/half_adder.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/half_adder_testbench.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/hw01.qpf
+C:/Users/Utku/Desktop/Computer Organization/HW01/hw01.qsf
+C:/Users/Utku/Desktop/Computer Organization/HW01/incremental_db/compiled_partitions/hw01.db_info
+C:/Users/Utku/Desktop/Computer Organization/HW01/likeALU.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/likeALU_demo.v
+C:/Users/Utku/Desktop/Computer Organization/HW01/likeALU_testbench.v
+u:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 26 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

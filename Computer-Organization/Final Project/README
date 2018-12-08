@@ -1,0 +1,5 @@
+  This is a Single Cycle Datapath that i used as reference to start my project and i build up on this as i added more instructions. Although this datapath doesn’t support all of the instructions as it is, all i had to do was add small units to make them work. For example added shift left 2 unit to shift 26 bit address from jump instruction and then used first 4 bits of PC + 4 to generate the 32 address of jump instruction and put it to a mux with the output of branch/PC mux -at top right- with jump signal as it’s selector. This is how i basicly implemented other instructions too. Currently all the instructions in FinalProject.pdf work except Store Byte, Store Conditional, Store Halfword, Jump And Link. Also didn’t use ALU control unit but instead generated ALU signals inside the Control Unit.
+
+For further information, test units, results check out the project report.
+
+UART is also implemented and taking the instructions through UART communication from the PC was successful during the demo.

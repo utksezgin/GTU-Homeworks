@@ -1,0 +1,23 @@
+Quartus II Archive log --	C:/Users/Utku/Desktop/Sezgin_Azmi_Utku_131044048.qarlog
+
+Archive:	C:/Users/Utku/Desktop/Sezgin_Azmi_Utku_131044048.qar
+Date:		Mon Nov 20 15:43:20 2017
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/Utku/Desktop/Computer Organization/HW02/templateForProject2_restored/assignment_defaults.qdf
+C:/Users/Utku/Desktop/Computer Organization/HW02/templateForProject2_restored/db/project02.db_info
+C:/Users/Utku/Desktop/Computer Organization/HW02/templateForProject2_restored/incremental_db/compiled_partitions/project02.db_info
+C:/Users/Utku/Desktop/Computer Organization/HW02/templateForProject2_restored/mips_alu.v
+C:/Users/Utku/Desktop/Computer Organization/HW02/templateForProject2_restored/mips_alu_testbench.v
+C:/Users/Utku/Desktop/Computer Organization/HW02/templateForProject2_restored/mips_core.v
+C:/Users/Utku/Desktop/Computer Organization/HW02/templateForProject2_restored/mips_core_testbench.v
+C:/Users/Utku/Desktop/Computer Organization/HW02/templateForProject2_restored/mips_registers.v
+C:/Users/Utku/Desktop/Computer Organization/HW02/templateForProject2_restored/mips_registers_testbench.v
+C:/Users/Utku/Desktop/Computer Organization/HW02/templateForProject2_restored/project02.qpf
+C:/Users/Utku/Desktop/Computer Organization/HW02/templateForProject2_restored/project02.qsf
+C:/Users/Utku/Desktop/Computer Organization/HW02/templateForProject2_restored/simulation/modelsim/registers.mem
+	======= Total: 12 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

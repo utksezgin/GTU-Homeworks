@@ -1,0 +1,33 @@
+Quartus II Archive log --	C:/Users/Utku/Desktop/Computer Organization/Final Project/Sezgin_Azmi_Utku_131044048.qarlog
+
+Archive:	C:/Users/Utku/Desktop/Computer Organization/Final Project/Sezgin_Azmi_Utku_131044048.qar
+Date:		Wed Jan 03 23:09:16 2018
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/MUX_2_1.v
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/MUX_2_1_5bit.v
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/_32BitAdder.v
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/assignment_defaults.qdf
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/data.mem
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/db/project03.db_info
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/incremental_db/compiled_partitions/project03.db_info
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/instruction.mem
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/leftShifter_2bit.v
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/mips_alu.v
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/mips_control.v
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/mips_core.v
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/mips_data_mem.v
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/mips_instr_mem.v
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/mips_registers.v
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/mips_testbench.v
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/project03.qpf
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/project03.qsf
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/readme.txt
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/registers.mem
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/signExtend_16_32.v
+C:/Users/Utku/Desktop/Computer Organization/Final Project/FinalProject/zeroExtend_16_32.v
+	======= Total: 22 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

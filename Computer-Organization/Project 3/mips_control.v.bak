@@ -1,0 +1,12 @@
+module mips_control(instruction, RegDst, Branch, MemRead, MemtoReg, AlluOp, MemWrite, AlluSrc, RegWrite)
+(
+	input [31:0] instruction,
+	output RegDst, Branch, MemRead, MemtoReg, AlluOp, MemWrite, AlluSrc, RegWrite
+	
+);
+	reg [31:0] registers [31:0];
+	
+	initial begin
+		
+
+endmodule
