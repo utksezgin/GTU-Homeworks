@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="fxmlGeneralPane" prefHeight="453.0" prefWidth="859.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Player">
+   <children>
+      <SplitPane fx:id="fxmlPlayPane" dividerPositions="0.7496087636932708" prefHeight="453.0" prefWidth="859.0">
+        <items>
+          <AnchorPane fx:id="fxmlQuestionAnswer" minHeight="0.0" minWidth="0.0">
+               <children>
+                  <VBox fx:id="fxmlVBox" prefHeight="453.0" prefWidth="638.0">
+                     <children>
+                        <Label fx:id="fxmlQuestionText" alignment="CENTER" prefHeight="262.0" prefWidth="638.0" text="Label">
+                           <font>
+                              <Font size="35.0" />
+                           </font>
+                        </Label>
+                        <Button fx:id="fxmlAnswer1" mnemonicParsing="false" onAction="#Answered1" prefHeight="136.0" prefWidth="638.0" text="Button">
+                           <font>
+                              <Font size="25.0" />
+                           </font>
+                        </Button>
+                        <Button fx:id="fxmlAnswer2" mnemonicParsing="false" onAction="#Answered2" prefHeight="136.0" prefWidth="638.0" text="Button">
+                           <font>
+                              <Font size="25.0" />
+                           </font>
+                        </Button>
+                        <Button fx:id="fxmlAnswer3" mnemonicParsing="false" onAction="#Answered3" prefHeight="136.0" prefWidth="638.0" text="Button">
+                           <font>
+                              <Font size="25.0" />
+                           </font>
+                        </Button>
+                        <Button fx:id="fxmlAnswer4" mnemonicParsing="false" onAction="#Answered4" prefHeight="136.0" prefWidth="638.0" text="Button">
+                           <font>
+                              <Font size="25.0" />
+                           </font>
+                        </Button>
+                     </children>
+                  </VBox>
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0">
+               <children>
+                  <VBox layoutX="2.0" layoutY="1.0" prefHeight="451.0" prefWidth="211.0">
+                     <children>
+                        <ListView fx:id="fxmlPastQuestionList" prefHeight="425.0" prefWidth="211.0" />
+                        <Button fx:id="fxmlUndoButton" mnemonicParsing="false" onAction="#undoQuestion" prefHeight="47.0" prefWidth="211.0" text="Undo">
+                           <font>
+                              <Font size="20.0" />
+                           </font>
+                        </Button>
+                     </children>
+                  </VBox>
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+      <Pane fx:id="fxmlFinishPane" prefHeight="453.0" prefWidth="859.0">
+         <children>
+            <Label fx:id="fxmlFinishLabel" alignment="CENTER" layoutX="129.0" layoutY="59.0" prefHeight="336.0" prefWidth="602.0" text="Label">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+         </children></Pane>
+   </children>
+</AnchorPane>

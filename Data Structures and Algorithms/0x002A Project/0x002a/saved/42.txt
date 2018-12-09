@@ -1,0 +1,6 @@
+<STR:10,AGI:10,>
+1~%Answer 1 goes to Q1, 2 goes to Q2~&~&I'll go to Q 1##1######/I'll go to Q 2##2######/
+2~%Answer 1 goes to Q3. Anwser 2 goes to 3 too..Answer 1 has preReq of 8 STR. You have that much~&~&I NEED SOMEONE POWERFUL TO CARRY ME TO Q 3##3##>%%8%%STR%%##/Lets go to the q3##3######/
+3~%YOU'RE PUMPED UP MA DUDE.. Have 10 STR~&+~-10~-STR~-~&Thanks bud, To the Q4 i go##4######/
+4~%I'M out of ideas... Click on 1 to go to Q1. Click on 2 to Go to Q5~&~&Go to Starting Point##1######/Lets Finish this##5######/
+5~%THE END~&~&
