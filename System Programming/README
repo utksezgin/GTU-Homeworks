@@ -1,0 +1,5 @@
+  System Programming Class focuses on how to use signals, child processes, mutexes semaphores threads in C language without any external library.
+
+  The final project is creating a multi-threaded server-client program that gets a request from clients, send them to main thread which then the main threads picks the available/desired thread, thread processes the request then returns the result to client.
+
+Homeworks and the project are developed under linux using POSIX. They can be simply run by using makefiles.
