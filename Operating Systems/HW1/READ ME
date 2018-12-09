@@ -1,0 +1,3 @@
+This program only works with 8080 Assembly files and you need to convert
+your .asm file to .com file using this site http://sensi.org/~svo/i8080/
+Usage: prog exeFile debugOption(0,1,2)
