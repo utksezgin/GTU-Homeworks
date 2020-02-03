@@ -5,3 +5,17 @@ Homeworks from classes of Computer Engineering at Gebze Technical University.
 
 PS. Handwritten homeworks are not included.
 
+C++:
+Heuristic Optimization
+Operating Systems
+Object Oriented Programming
+
+C:
+System Programming
+
+Java:
+Object Oriented Analysis and Design Patterns
+Data Structures and Algorithms
+
+Python:
+Daily Coding Problems
