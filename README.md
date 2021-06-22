@@ -5,6 +5,8 @@ Homeworks from classes of Computer Engineering at Gebze Technical University.
 
 PS. Handwritten homeworks are not included.
 
+**You might find some pretty ugly code around here =)
+
 C++:
 Heuristic Optimization
 Operating Systems
